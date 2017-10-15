@@ -1,7 +1,7 @@
 #' Learnr tutorial 1
 #'
 #' This was taken from the leanr developers. https://github.com/rstudio/learnr/tree/master/examples
-#' @param
+#' @param Nothing nothing is required
 #' @return Opens a RStudio or external browser containing a tutorial sheet.
 #' @export
 #' @examples

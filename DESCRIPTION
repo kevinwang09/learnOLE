@@ -11,5 +11,6 @@ LazyData: true
 Imports:
     tidyverse,
     learnr,
-    nycflights13
+    nycflights13,
+    d3heatmap
 RoxygenNote: 6.0.1.9000
