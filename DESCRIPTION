@@ -1,11 +1,15 @@
 Package: learnOLE
 Type: Package
-Title: What the Package Does (Title Case)
+Title: A package containing OLE tutorials built under `learnr`
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Kevin Wang
+Maintainer: Kevin Wang <kevin.wang@sydney.edu.au>
+Description: This containts skeleton codes and basic functionalities of an OLE that is currently under development at the University of Sydney.
+License: Do not distribute outside of the University of Sydney.
 Encoding: UTF-8
 LazyData: true
+Imports:
+    tidyverse,
+    learnr,
+    nycflights13
+RoxygenNote: 6.0.1.9000
