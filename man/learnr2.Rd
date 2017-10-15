@@ -7,7 +7,7 @@
 learnr2()
 }
 \arguments{
-\item{Nothing}{nothing is required}
+\item{nothing}{nothing is required}
 }
 \value{
 Opens a RStudio or external browser containing a tutorial sheet.
